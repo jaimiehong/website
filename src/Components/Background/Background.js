@@ -56,6 +56,8 @@ function Background(props){
         </div>
 
       </div>
+
+      <a href = "https://jaimiehong.github.io/signfy/" target = "_blank">
       <div className = 'item'>
          
         <div className = 'box'>
@@ -76,6 +78,7 @@ function Background(props){
         </div>
 
       </div>
+      </a>
     </div>
   )
 }
