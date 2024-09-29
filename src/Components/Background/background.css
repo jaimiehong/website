@@ -1,0 +1,61 @@
+.space{
+  margin-top:10px;
+}
+.h1-box{
+  margin:100px;
+}
+.h1-text{
+  font-family: "neue-haas-grotesk-display", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+}
+.item{
+  width: 90vw;
+  color: gray;
+  border-radius: 20px;
+  border-color: rgb(13, 9, 9);
+  border: solid;
+  border-width:thin;
+  margin-bottom: 17px;
+  text-align: left;
+  padding-bottom:20px;
+  padding-left:7px;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+.item:hover{
+  background-color: rgb(122, 125, 145);
+  color: white;
+}
+.title{
+  margin-left: 10px;
+  font-family: "neue-haas-grotesk-display", sans-serif;
+  font-weight: 375;
+  font-style: normal;
+  font-size: 18px;
+  margin-bottom: 7px;
+
+}
+.descript{
+  margin-left: 10px;
+  margin-right: 50px;
+  margin-top:7px;
+  margin-bottom:6px;
+  flex: 1;
+
+}
+a {
+  text-decoration: none;
+}
+.box{
+  display:flex;
+  padding-right: 30px;
+}
+.logo-container{
+  margin-right: 10px;
+  margin-bottom:0px;
+  display:flex;
+  align-items:center;
+  padding-top:10px;
+  flex: 1;
+}
