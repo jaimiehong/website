@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.d798161e.css",
+    "main.js": "/website/static/js/main.43916eb7.js",
+    "static/js/453.4c494872.chunk.js": "/website/static/js/453.4c494872.chunk.js",
+    "static/media/signfy.gif": "/website/static/media/signfy.9e7e6d4cf4707e184a4f.gif",
+    "static/media/Sql_data_base_with_logo.png": "/website/static/media/Sql_data_base_with_logo.85fb38d6773862e917f4.png",
+    "static/media/png": "/website/static/media/49a770b0218e10020482508f82820000.ba67256134d3b1697429.png",
+    "static/media/2020-05-21-setup-windows-development-eb5c79a7.png": "/website/static/media/2020-05-21-setup-windows-development-eb5c79a7.59532158d79e661a7ad8.png",
+    "static/media/ansible_logo_icon_169596.png": "/website/static/media/ansible_logo_icon_169596.ab3e958fd5cf85b67c34.png",
+    "index.html": "/website/index.html",
+    "main.d798161e.css.map": "/website/static/css/main.d798161e.css.map",
+    "main.43916eb7.js.map": "/website/static/js/main.43916eb7.js.map",
+    "453.4c494872.chunk.js.map": "/website/static/js/453.4c494872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d798161e.css",
+    "static/js/main.43916eb7.js"
+  ]
+}
