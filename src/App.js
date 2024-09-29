@@ -29,7 +29,7 @@ function App() {
       <section ref = {scrollRef} style = {styles.contentSection}>
         <Background/>
       </section>
-      <Photography/>
+      
       <CounterExample/>
     </div>
 
