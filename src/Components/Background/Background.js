@@ -66,7 +66,7 @@ function Background(props){
               Sign Language Translator
             </p>
             <p className = "descript">
-              More of a personal project, I created a web app in React that took in written English input and produced links that directed showed each word's ASL translation. I scraped HandSpeak's online dictionary and wrote it into a CSV file using a Python script. The main purpose of this app was to streamline the process of finding the translation of multiple words in a given sentence. 
+              More of a personal project, I created a web app in React that takes in written English input and produces links that directly show each word's ASL equivalent. I scraped HandSpeak's online dictionary and read it into a CSV file using a Python script. The main purpose of this app was to streamline the process of finding the ASL translation of multiple words in a given sentence. 
             </p>
           </div>
           <div className = 'logo-container'>
