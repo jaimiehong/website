@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.13d0e3bc.css",
+    "main.css": "/website/static/css/main.bd4007a2.css",
     "main.js": "/website/static/js/main.a5040856.js",
     "static/js/453.4c494872.chunk.js": "/website/static/js/453.4c494872.chunk.js",
     "static/media/hs_pc-3.jpg": "/website/static/media/hs_pc-3.f1a26a38c0f7da7d6c1d.jpg",
@@ -12,12 +12,12 @@
     "static/media/ssl-certificate-invalid.png": "/website/static/media/ssl-certificate-invalid.4b5f682b919dc85a7ffd.png",
     "static/media/ansible_logo_icon_169596.png": "/website/static/media/ansible_logo_icon_169596.ab3e958fd5cf85b67c34.png",
     "index.html": "/website/index.html",
-    "main.13d0e3bc.css.map": "/website/static/css/main.13d0e3bc.css.map",
+    "main.bd4007a2.css.map": "/website/static/css/main.bd4007a2.css.map",
     "main.a5040856.js.map": "/website/static/js/main.a5040856.js.map",
     "453.4c494872.chunk.js.map": "/website/static/js/453.4c494872.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13d0e3bc.css",
+    "static/css/main.bd4007a2.css",
     "static/js/main.a5040856.js"
   ]
 }
