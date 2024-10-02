@@ -1,12 +1,16 @@
-import React from 'react'
+import React, { useState } from 'react';
 import './background.css'
 import gdtLogo from './49a770b0218e10020482508f82820000.png'
 import ansibleLogo from './ansible_logo_icon_169596.png'
 import wslLogo from './2020-05-21-setup-windows-development-eb5c79a7.png'
 import signfy from './signfy.gif'
 import sqlLogo from './Sql_data_base_with_logo.png'
+import certImg from "./ssl-certificate-invalid.png"
+import Azure from "./azure_logo_794_new.png"
 function Background(props){
+
   return(
+    
    <div className = "space">
       <div className = "h1-box">
         <p className = "h1-text">
@@ -35,9 +39,8 @@ function Background(props){
       </div>
       </a>
 
-      <div className = 'item'>
-        
-
+      
+      <div className="item">
         <div className = 'box'>
           <div>
             <p className = 'title'>
@@ -54,9 +57,21 @@ function Background(props){
             <img src={wslLogo} height= "90px" width = 'auto' className = 'logo'></img>
           </div>
         </div>
+        
+        <div className="expanded-content">
+          <div className="logo-container">
+            <img src={certImg} height="120px" width="auto" className="cert-img" alt="Certificate Expired" />
+            <img src={Azure} height="120px" width="auto" className="cert-img" alt="Additional Image" />
+            <p className="descript">
+            This script was fully scalable and merged into my team's automation space use Azure framework. I learned proper Cloud practices and how to efficient pull, merge, and request for feedback. In addition, I learned the importance of created well-organized ReadMe files, espeically for replicable scripts. 
+          </p>
+          </div>
+          
+          
+        </div>
 
       </div>
-
+      
       <a href = "https://jaimiehong.github.io/signfy/" target = "_blank">
       <div className = 'item'>
          
